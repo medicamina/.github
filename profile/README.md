@@ -4,12 +4,12 @@
 
 🖥 iOS, Android and Web built
 
-💊 Make intelligent therapeutic decisions and avoid misdiagnosis
+💊 To help make intelligent therapeutic decisions and avoid misdiagnosis
 
 👩‍⚕️ Designed for physicians and non professionals
 
-📖 Learn about drugs and diseases
+📖 So you can learn about drugs and diseases
 
-🌎 Build an ancestry map and build your family history
+🌎 Build an ancestry map,  your family history
 
-🤧 Discover inherited diseases
+🤧 And discover inherited diseases
