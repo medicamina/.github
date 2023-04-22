@@ -7,7 +7,7 @@
 
 <div align="center">
 
-  [![medicamina banner](https://raw.githubusercontent.com/medicamina/medicamina/main/assets/github/banner.png)](https://github.com/medicamina)
+  [![medicamina banner](https://raw.githubusercontent.com/medicamina/.github/main/assets/banner.png)](https://github.com/medicamina)
 
 </div>
 
